@@ -50,7 +50,7 @@ html {
 }
 
 .silk-logo {
-    max-width: 110px; /* Increased for PureSkin logo */
+    max-width: 165px; /* Increased by ~50% for Esthetics Dental logo */
 }
 
 .footer-logos {
@@ -346,7 +346,7 @@ h2 {
     }
 
     .silk-logo {
-        max-width: 85px; /* Proportional increase on mobile */
+        max-width: 127px; /* ~50% larger on mobile */
     }
 
     h1 {
@@ -416,7 +416,7 @@ h2 {
 
 @media (max-width: 375px) {
     .bts-logo, .silk-logo {
-        max-width: 70px;
+        max-width: 100px;
     }
 
     .header {
